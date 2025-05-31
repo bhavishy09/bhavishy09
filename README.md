@@ -6,6 +6,8 @@
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/bhavishy09/)](https://github.com/bhavishy09/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavishya-katariya-94119a330/)](https://www.linkedin.com/in/bhavishya-katariya-94119a330/)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white&link=https://leetcode.com/u/bhavishy2004/)](https://leetcode.com/u/bhavishy2004/)
+[![GFG Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white&link=https://www.geeksforgeeks.org/user/futuresi62nv/)](https://www.geeksforgeeks.org/user/futuresi62nv/)
+
 
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
